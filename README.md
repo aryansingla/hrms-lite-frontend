@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## Getting Started
 
-First, run the development server:
+Project Deployed Link: https://hrms-lite-frontend-nine-sage.vercel.app
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Dashboard 
+<img width="1910" height="977" alt="Screenshot From 2026-03-05 22-53-06" src="https://github.com/user-attachments/assets/5a717a59-09e7-45a1-b239-c3c090db5a58" />
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Employee Table
+<img width="1910" height="977" alt="Screenshot From 2026-03-05 22-53-17" src="https://github.com/user-attachments/assets/2e70dd9f-e598-497d-8bea-0c1256290f59" />
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Add Employee
+<img width="1910" height="977" alt="Screenshot From 2026-03-05 22-53-33" src="https://github.com/user-attachments/assets/5563d4a3-7bce-44a2-8e37-76058392788f" />
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Delete Employee
+<img width="1910" height="977" alt="Screenshot From 2026-03-05 22-53-46" src="https://github.com/user-attachments/assets/04f55062-973b-405b-84ba-a23b426ca147" />
 
-## Learn More
+# Edit Employee
+<img width="1910" height="977" alt="Screenshot From 2026-03-05 22-53-46" src="https://github.com/user-attachments/assets/bae5f485-9f7a-40f4-8780-9f094c7c4357" />
 
-To learn more about Next.js, take a look at the following resources:
+# Attendance Table
+<img width="1910" height="977" alt="Screenshot From 2026-03-05 22-54-12" src="https://github.com/user-attachments/assets/5f51b066-81ce-4bcf-a7b8-83e0e963aab4" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Mark Attendance
+<img width="1910" height="977" alt="Screenshot From 2026-03-05 22-54-37" src="https://github.com/user-attachments/assets/d0eabed5-bdc3-4d8b-8272-4048d3f30910" />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
